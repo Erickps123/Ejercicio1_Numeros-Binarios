@@ -1,0 +1,74 @@
+﻿@model Data
+<h1>EJERCICIO 1: Numeros Binarios</h1>
+<div class="row">
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="">
+
+            @Html.TextBoxFor(x => x.number1,
+               new { @class = "form-control", placeholder = "Numero 1", type = "number" })
+            @Html.ValidationMessageFor(x => x.number1, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number2,
+               new { @class = "form-control", placeholder = "Numero 2", type = "number" })
+            @Html.ValidationMessageFor(x => x.number2, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number3,
+                   new { @class = "form-control", placeholder = "Numero 3", type = "number" })
+            @Html.ValidationMessageFor(x => x.number3, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number4,
+                   new { @class = "form-control", placeholder = "Numero 4", type = "number" })
+            @Html.ValidationMessageFor(x => x.number4, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number5,
+                   new { @class = "form-control", placeholder = "Numero 5", type = "number" })
+            @Html.ValidationMessageFor(x => x.number5, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number6,
+                   new { @class = "form-control", placeholder = "Numero 6", type = "number" })
+            @Html.ValidationMessageFor(x => x.number6, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number7,
+                   new { @class = "form-control", placeholder = "Numero 7", type = "number" })
+            @Html.ValidationMessageFor(x => x.number7, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number8,
+                   new { @class = "form-control", placeholder = "Numero 8", type = "number" })
+            @Html.ValidationMessageFor(x => x.number8, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number9,
+                   new { @class = "form-control", placeholder = "Numero 9", type = "number" })
+            @Html.ValidationMessageFor(x => x.number9, null, new { @class = "txt" })
+            <br />
+            @Html.TextBoxFor(x => x.number10,
+                   new { @class = "form-control", placeholder = "Numero 10", type = "number" })
+            @Html.ValidationMessageFor(x => x.number10, null, new { @class = "txt" })
+            <br />
+            <button class="btn btn-primary" type="submit">
+                Enviar numeros
+            </button>
+        </div>
+
+    }
+    <div style="margin: 2%;">
+    <h4>Los numeros convertidos a binario son:</h4>
+    <table style="border:inset" class="table table-dark">
+        <tr style="border:black 3px;">
+            @for (int i = 0; i <= 9; i++)
+            {
+                <td style="border:black 2px solid;">@ViewData["numIngresado" + i]</td>
+
+            }
+        </tr>
+        <tr style="border:black 3px;">
+            @for (int i = 0; i <= 9; i++)
+            {
+                <td style="border:black 2px solid;">@ViewData["num" + i]</td>
+
+            }
+        </tr>
+
+    </table>
+      </div>

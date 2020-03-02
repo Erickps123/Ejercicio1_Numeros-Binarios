@@ -1,0 +1,35 @@
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.exe
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.deps.json
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.runtimeconfig.json
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.runtimeconfig.dev.json
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.dll
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.pdb
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.Views.dll
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\bin\Debug\netcoreapp3.1\Numeros Binarios.Views.pdb
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\staticwebassets\Numeros Binarios.StaticWebAssets.Manifest.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\staticwebassets\Numeros Binarios.StaticWebAssets.xml
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.RazorAssemblyInfo.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.RazorAssemblyInfo.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.AssemblyInfo.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.TagHelpers.input.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.TagHelpers.output.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.RazorCoreGenerate.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.RazorTargetAssemblyInfo.cache
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.RazorTargetAssemblyInfo.cs
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.Views.pdb
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.dll
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.pdb
+C:\Users\chris\source\repos\Numeros Binarios\Numeros Binarios\obj\Debug\netcoreapp3.1\Numeros Binarios.csproj.CopyComplete
